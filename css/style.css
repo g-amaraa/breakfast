@@ -425,7 +425,7 @@ body {
   left: 50%;
   transform: translate(-50%, 20%) skewY(-6deg);
   color: #fff;
-text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   font-weight: 700;
   font-size: 2.75rem;
   text-transform: uppercase;
